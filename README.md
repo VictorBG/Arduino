@@ -6,7 +6,7 @@ Showcase of minor projects made in Arduino
 
 ### List
 
-* [Scrollable text](https://github.com/VictorBG/Arduino/tree/master/scroll_text): Project showcasing a scrollable text through on a lcd display if the text has more letters than the lcd can display
+* [Scrollable text](https://github.com/VictorBG/Arduino/tree/master/scroll_text): Project showcasing a scrollable text on a lcd display if the text has more letters than the lcd can show
 
 # License
 
